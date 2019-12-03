@@ -1,0 +1,44 @@
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+.logo{
+	background-image:"cratfiledlogo.PNG";
+}
+.topnav {
+  background-color: #ff4d88;
+  overflow: hidden;
+  }
+
+  .topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: white;
+  }
+
+.topnav a.active {
+  background-color: #ff4d88;
+  color: white;
+}
+
+.row{
+  display: flex;
+
+}
+.box{
+  width: 90%;
+  height: 100%;
+}
+
+.hey{
+  width: 50%;
+  height: 100%;
+}
