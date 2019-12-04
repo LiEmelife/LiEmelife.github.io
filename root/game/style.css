@@ -42,3 +42,21 @@ body {
   width: 50%;
   height: auto;
 }
+.dateNews{
+  color:  white;
+}
+
+.newsImage{
+  width: 80%;
+  height: 60%;
+}
+
+.pWhite{
+  color: white;
+  padding-left: 80px;
+}
+
+.videoFrame{
+  padding-left: 250px;
+  padding-top: 40px;
+}
